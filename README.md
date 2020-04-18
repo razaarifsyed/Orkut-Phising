@@ -1,10 +1,11 @@
 # Orkut-Phising
+
 Warning: Only meant for educational purpose. The author is not responsible for what a reader does with this info.
-The author doesn't promote hacking, or any illegal activity.
+The author doesn't promote unethical hacking, or any illegal activity.
 Its intended towards ethical hackers, so they can learn to protect themselves.
 Also, Orkut doesn't exists anymore. And i highly doubt if modern day websites and broswers will let the code work anyway.
 
-Do not break the law!
+**Do not break the law!**
 
 My source code was inspired by other authors.
 
